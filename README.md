@@ -4,7 +4,7 @@ SocketHook written in C#, Only support for Windows (32 bits application)
 
 ## How to use
 1. Run RegisterCOMObjects.bat (as admin)
-2. Run HookAPI.exe with parameter p=<process.exe> s=<bind_address:port> d=<forward_address:port>
+2. Run HookAPI.exe with parameter p=&lt;process.exe&gt; s=&lt;bind_address:port&gt; d=&lt;forward_address:port&gt;
 (bind_address can replace with 0.0.0.0, port can be blank)
 
 ### Example parameters
